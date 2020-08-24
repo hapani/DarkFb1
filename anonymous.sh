@@ -10,25 +10,25 @@ ku='\033[33;1m' #kuning
 echo
 echo
 echo
-figlet -f slant  "TAUFIQ X"|lolcat
+figlet -f slant  "Ridwan "|lolcat
 sleep 4
 echo $ku" TUNGGU SEBENTAR LAGI MASUK KE TOOLS"
 sleep 1
 echo $me" LOADING"
 sleep 1
-echo $me"█▒▒▒▒▒▒▒▒▒"
+echo $me" █▒▒▒▒▒▒▒▒▒"
 echo $me"    10%   "
 sleep 1
-echo $ku"███▒▒▒▒▒▒▒"
+echo $ku" ███▒▒▒▒▒▒▒"
 echo $ku"    30%   "
 sleep 1
-echo $i"█████▒▒▒▒▒"
+echo $i"  █████▒▒▒▒▒"
 echo $i"    50%   "
 sleep 1
-echo $bi"███████▒▒▒"
+echo $bi" ███████▒▒▒"
 echo $bi"   100%   "
 sleep 1
-echo $cy"██████████"
+echo $cy" ██████████"
 sleep 1
 echo $pr" LOGIN BERHASIL"
 sleep 1
@@ -37,15 +37,18 @@ echo $me"===================================="
 echo $me" WELCOME TO MY TOOLS TOL"
 echo $me"===================================="
 sleep 1
-echo $pu" AUTHOR :"TAUFIQ X"$pu"
+echo $pu" AUTHOR :"WIBI & Ridwan"$pu".      
 sleep 1
-echo $pu" TEAM   :"RED DEVIL OFF"$pu"
+echo $pu" WA    :" 085336515046 "$pu"
+echo $pu" WA    :" 085731928045 "$pu"
 sleep 1
-echo $pu" GITHUB :"taufiqx/404"$pu"
+echo $pu" IG.    :"Ridwan58aja"$pu"
+sleep 1
+echo $pu" GITHUB :"RidwanKechil"$pu"
 sleep 1
 echo $pu"===================================="
 echo
-echo $cy" SILAHKAN PILIH MENU TOOLS NYA"
+echo $cy" SILAHKAN PILIH TOOLS "
 sleep 1
 echo $me"─────█─▄▀█──█▀▄─█──"
 sleep 1
@@ -75,7 +78,7 @@ echo $ku"|"$ku" 7"$ku".  KATOOLIN "
 sleep 1
 echo $me"|"$me" 8"$me".  VIRUS CREATE "
 sleep 1
-echo $cy"|"$cy" 9"$cy".  INSTALL BAHAN DLU YA TOL"
+echo $cy"|"$cy" 9"$cy".  INSTALL BAHAN DLU YA "
 sleep 1
 echo $i"|"$i " 10"$i ".  KELUAR DARI PROGRAM AING TOL"
 echo $me"---"$pur"["$me"RED DEVIL OFF"$me"]"$pu"------"$pu"["$pu""pilih tools""$cy"]"
@@ -87,7 +90,7 @@ then
 clear
 figlet -f slant " W A I T "|lolcat
 sleep1
-git clone https://github.com/MrTamfanX/MrDdos
+git clone https://github.com/MrTamfanX
 cd MrDdos
 chmod +x*
 sh Tamfan-Ddos.sh
