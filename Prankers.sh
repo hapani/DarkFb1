@@ -1,6 +1,6 @@
 ﻿
 clear
-figlet PRANKERS | lolcat
+figlet Ridwan   | lolcat
 echo "====================================================
 
 # Coded   : Ridwan&Wibi
