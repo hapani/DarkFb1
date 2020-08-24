@@ -37,7 +37,7 @@ echo $me"===================================="
 echo $me" WELCOME TO MY TOOLS TOL"
 echo $me"===================================="
 sleep 1
-echo $me" AUTHOR :"WIBI.&.Ridwan"$pu".      
+echo $me" AUTHOR :"WIBI•Ridwan"$pu".      
 sleep 1
 echo $pu" WA    :" 085336515046 "$pu"
 echo $me" WA    :" 085731928045 "$pu"
