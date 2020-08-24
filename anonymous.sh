@@ -22,7 +22,7 @@ sleep 1
 echo $ku" ███▒▒▒▒▒▒▒"
 echo $ku"    30%   "
 sleep 1
-echo $i"  █████▒▒▒▒▒"
+echo $i" █████▒▒▒▒▒"
 echo $i"    50%   "
 sleep 1
 echo $bi" ███████▒▒▒"
@@ -37,10 +37,10 @@ echo $me"===================================="
 echo $me" WELCOME TO MY TOOLS TOL"
 echo $me"===================================="
 sleep 1
-echo $pu" AUTHOR :"WIBI & Ridwan"$pu".      
+echo $me" AUTHOR :"WIBI.&.Ridwan"$pu".      
 sleep 1
 echo $pu" WA    :" 085336515046 "$pu"
-echo $pu" WA    :" 085731928045 "$pu"
+echo $me" WA    :" 085731928045 "$pu"
 sleep 1
 echo $pu" IG.    :"Ridwan58aja"$pu"
 sleep 1
